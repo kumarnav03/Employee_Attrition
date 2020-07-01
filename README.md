@@ -2,7 +2,7 @@
 **Goal**
 * We aim to explore the dataset and get insights on the feature impacting the employee to leave the organization. And build a regression model to predict their attrition rate.
 
-**Overview**
+**Research Shown**
 * Explrotary Data Analysis
 * Interaction Terms involved
 * Regression Model
